@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "User creation account & authentication , user confirmation with email validation , url generation & url visits statistics ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azizbhy/Angular-Nodejs-Tabhotel.git"
+  },
+  "author": "Aziz ben hadj yahia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azizbhy/Angular-Nodejs-Tabhotel/issues"
+  },
+  "homepage": "https://github.com/azizbhy/Angular-Nodejs-Tabhotel#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.11",
+    "nodemailer": "^6.7.0",
+    "nodemon": "^2.0.14",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  }
+}
